@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="title description">
+  <title id="title">Foto belum tersedia</title>
+  <desc id="description">Placeholder netral untuk item yang belum memiliki foto terverifikasi.</desc>
+  <rect width="960" height="640" fill="#e8f1f8"/>
+  <path d="M0 470 220 350l150 95 190-170 400 260v105H0Z" fill="#d2e3f0"/>
+  <circle cx="690" cy="170" r="54" fill="#c2d8e8"/>
+  <rect x="376" y="251" width="208" height="146" rx="18" fill="#fff" stroke="#8baec7" stroke-width="8"/>
+  <circle cx="480" cy="324" r="43" fill="#d8e7f1" stroke="#8baec7" stroke-width="8"/>
+  <path d="M424 251l22-28h68l22 28" fill="#fff" stroke="#8baec7" stroke-width="8" stroke-linejoin="round"/>
+  <text x="480" y="448" text-anchor="middle" fill="#1d4e73" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">FOTO BELUM TERSEDIA</text>
+</svg>
